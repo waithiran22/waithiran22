@@ -1,8 +1,8 @@
 # Hi there, I'm Waithira! 👋
 
-🎓 **Senior at Augustana College** 
+🎓 **Recent Grad from Augustana College** 
 
-🚀 **Majoring in Data Analytics & Business Management (Marketing)**
+🚀 **Majored in Data Analytics & Business Management (Marketing)**
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in open-source projects, web development, and machine learning.  love exploring new technologies and constantly improving my skills. Here's a little bit about me:
 
@@ -13,6 +13,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 
 ## 📈 Featured Projects  
+### 🔹 [Resume Bias Project](https://github.com/waithiran22/Resume-Bias-Project)  
+The goal is to detect potential biases in hiring by analyzing resume content and callback outcomes using machine learning techniques. I trained models with and without sensitive features like firstname to see how much they influenced prediction and fairness.
+
+### 🔹 [AI and Job Displacement in the US](https://github.com/waithiran22/-AI-Job-Displacement-in-the-U.S.)  
+This project explores how artificial intelligence and automation are transforming the U.S. labor market. It identifies which jobs and regions are most vulnerable, examines skill-based protections, and provides data-driven visualizations and insights.
 
 ### 🔹 [Big Data Sales Forecasting Model Using XGBoost and Hyperparameter Optimization](https://github.com/waithiran22/Big-Data-Sales-Forecasting-Model-Using-XGBoost-and-Hyperparameter-Optimization)  
 Designed to simulate large-scale sales data with complex seasonality, promotional impacts, and upward trends, this model demonstrates state-of-the-art machine learning practices for accurate sales prediction.
@@ -32,8 +37,8 @@ Analyzing the speed, road time and other factors of 150 cars in order to underst
 
 ## 📫 Get in Touch
 
-- **Email:** [waithiranganga21@augustana.edu](mailto:waithiranganga21@augustana.edu)
-- **LinkedIn:** [waithiranganga](https://www.linkedin.com/in/waithira-ng-ang-a-6b0390265/))
+- **Email:** waithiran22@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/waithira-nganga2002]
 
 
 ## 🤝 Contributions
