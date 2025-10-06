@@ -1,50 +1,43 @@
-# Hi there, I'm Waithira! 👋
+# Hi, I'm Waithira Ng'ang'a! 👋
 
-🎓 **Recent Grad from Augustana College** 
+**B.A, Business Analytics and Marketing from Augustana College (May 2025)** 
 
-🚀 **Majored in Data Analytics & Business Management (Marketing)**
-
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in open-source projects, web development, and machine learning.  love exploring new technologies and constantly improving my skills. Here's a little bit about me:
-
-## 🛠️ Skills
-
-- **Languages:** Python, SQL, R, Tableau, Power BI, and Tableau 
-- **Exploring:** AI applications in business, predictive modeling, and financial analysis 
+## Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 
-## 📈 Featured Projects  
-### 🔹 [Resume Bias Project](https://github.com/waithiran22/Resume-Bias-Project)  
-The goal is to detect potential biases in hiring by analyzing resume content and callback outcomes using machine learning techniques. I trained models with and without sensitive features like firstname to see how much they influenced prediction and fairness.
-
-### 🔹 [AI and Job Displacement in the US](https://github.com/waithiran22/-AI-Job-Displacement-in-the-U.S.)  
-This project explores how artificial intelligence and automation are transforming the U.S. labor market. It identifies which jobs and regions are most vulnerable, examines skill-based protections, and provides data-driven visualizations and insights.
-
-### 🔹 [Big Data Sales Forecasting Model Using XGBoost and Hyperparameter Optimization](https://github.com/waithiran22/Big-Data-Sales-Forecasting-Model-Using-XGBoost-and-Hyperparameter-Optimization)  
-Designed to simulate large-scale sales data with complex seasonality, promotional impacts, and upward trends, this model demonstrates state-of-the-art machine learning practices for accurate sales prediction.
+## Featured Projects  
+### [Resume Bias Project](https://github.com/waithiran22/Resume-Bias-Project)  
+Built machine learning models to detect name and gender-based hiring bias. Compared models with and without sensitive features like `firstname' to measure fairness trade-offs.  
 
 
-### 🔹 [Carbon Footprint Calculator](https://github.com/waithiran22/Carbon-Footprint-Calculator)  
-Program to calculate a user's carbon footprint based on daily activities.
+### [AI and Job Displacement in the US](https://github.com/waithiran22/-AI-Job-Displacement-in-the-U.S.)  
+Analyzed the impact of automation on U.S. labor markets. Built clustering and regression models to identify vulnerable regions, industries, and skill sets.  
 
 
-### 🔹 [War and Money in Africa ](https://github.com/waithiran22/War-and-Money-in-Africa)  
-The relationship between economic indicators and conflict events in African countries from 1997 to 2018.
+### [Carbon Footprint Calculator](https://github.com/waithiran22/Carbon-Footprint-Calculator)  
+A passion project to make sustainability personal — calculates emissions from transport, food, and lifestyle, and provides tips to reduce impact.  
 
 
-### 🔹 [Counting Cars](https://github.com/waithiran22/Counting-Cars)  
-Analyzing the speed, road time and other factors of 150 cars in order to understanding the comparisons between state drivers and figure out road safety procedures.
+### [War and Money in Africa ](https://github.com/waithiran22/War-and-Money-in-Africa)  
+Explored the relationship between economics and conflict in African nations (1997–2018). A project close to home, blending personal curiosity with data storytelling.  
 
 
-## 📫 Get in Touch
+###  [**Coming Soon → Ozempic Analysis**] 
+An analysis of GLP-1 drugs' market disruption, quantifying their impact on healthcare costs, consumer behavior, and business strategy.
+
+---
+
+##  Certifications & Learning
+- CFA Institute Research Challenge Participant (2025)  
+- Google Data Analytics Certificate (Coursera)
+
+---
+
+## Lets Connect!
 
 - **Email:** waithiran22@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/waithira-nganga2002]
-
-
-## 🤝 Contributions
-
-I love collaborating on open-source projects and contributing to the community. Feel free to reach out if you have any interesting projects or ideas!
-
+- **LinkedIn:** [https://www.linkedin.com/in/waithira-nganga2002/]
 ---
 
 Thank you for visiting my profile! Have a great day! 😊
