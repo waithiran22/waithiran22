@@ -7,6 +7,11 @@
 
 
 ## Featured Projects  
+
+###  [Ozempic Effect](https://github.com/waithiran22/The-Ozempic-Effect-A-Data-Driven-Analysis-of-Healthcare-s-New-Frontier)
+An analysis of GLP-1 drugs' market disruption, quantifying their impact on healthcare costs, consumer behavior, and business strategy.
+
+
 ### [Resume Bias Project](https://github.com/waithiran22/Resume-Bias-Project)  
 Built machine learning models to detect name and gender-based hiring bias. Compared models with and without sensitive features like `firstname' to measure fairness trade-offs.  
 
@@ -22,16 +27,11 @@ A passion project to make sustainability personal — calculates emissions from 
 ### [War and Money in Africa ](https://github.com/waithiran22/War-and-Money-in-Africa)  
 Explored the relationship between economics and conflict in African nations (1997–2018). A project close to home, blending personal curiosity with data storytelling.  
 
-
-###  [**Coming Soon → Ozempic Analysis**] 
-An analysis of GLP-1 drugs' market disruption, quantifying their impact on healthcare costs, consumer behavior, and business strategy.
-
 ---
 
 ##  Certifications & Learning
 - CFA Institute Research Challenge Participant (2025)  
 - Google Data Analytics Certificate (Coursera)
-
 ---
 
 ## Lets Connect!
@@ -39,5 +39,3 @@ An analysis of GLP-1 drugs' market disruption, quantifying their impact on healt
 - **Email:** waithiran22@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/waithira-nganga2002/]
 ---
-
-Thank you for visiting my profile! Have a great day! 😊
